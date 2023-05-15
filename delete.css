@@ -1,0 +1,23 @@
+body {
+    background-color: #333333;
+    color: #FFFFFF;
+  }
+
+  .retro-text {
+    font-family: 'Courier New', monospace;
+    font-size: 28px;
+    color: #FFCC00;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    letter-spacing: 2px;
+    line-height: 1.5;
+  }
+  
+  .retro-text1 {
+    font-family: 'Courier New', monospace;
+    font-size: 15px;
+    color: #f0eee8;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    letter-spacing: 1px;
+    line-height: 1.5;
+  }
+  
